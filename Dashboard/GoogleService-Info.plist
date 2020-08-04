@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>675159236451-f95ocr2iaueg3cgopeefls4m1f7m9rhg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.675159236451-f95ocr2iaueg3cgopeefls4m1f7m9rhg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCC-0AvYS0TmPKJ58PaPu3Cq5DI5gk9Aho</string>
+	<key>GCM_SENDER_ID</key>
+	<string>675159236451</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Dashboard.codeScool</string>
+	<key>PROJECT_ID</key>
+	<string>dashboard-dc994</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dashboard-dc994.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:675159236451:ios:93a6744d06c10df4dafd56</string>
+	<key>DATABASE_URL</key>
+	<string>https://dashboard-dc994.firebaseio.com</string>
+</dict>
+</plist>
